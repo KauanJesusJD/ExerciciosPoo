@@ -1,8 +1,8 @@
 algoritmo "Presidente"
-// Função :definir quem sera eleito dentre os candidaotos
+// FunÃ§Ã£o :definir quem sera eleito dentre os candidaotos
 // Autor :Lucas Noel,Kauan Jesus
-// Data : 04/04/2023
-// Seção de Declarações 
+// Data : 05/04/2023
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 vot,cand1,cand2,cand3,fim:inteiro
 pv:Real
@@ -26,11 +26,11 @@ repita
                                    cand3:=1+cand3
                                    escreva(" Voto aprovado ")
                                senao
-                                    escreva(" valor invalído ")
+                                    escreva(" valor invalÃ­do ")
                                fimse
                           fimse
                      fimse
-      escreva(" Você deseja encerrar a votacao?(0 pra nao e 1 pra sim):")
+      escreva(" VocÃª deseja encerrar a votacao?(0 pra nao e 1 pra sim):")
       leia(fim)
 ate(fim=1)
 se(cand1>cand2)E(cand1>cand3)entao
