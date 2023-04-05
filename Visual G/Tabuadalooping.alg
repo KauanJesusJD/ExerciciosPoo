@@ -1,8 +1,8 @@
 algoritmo "tabuada utilizando o comando looping"
-// Função :tabuada
+// FunÃ§Ã£o :tabuada
 // Autor :Lucas Noel,Kauan Jesus
-// Data : 22/03/2023
-// Seção de Declarações 
+// Data :05/04/2023
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 num,num2:real
 eloop: caracter
