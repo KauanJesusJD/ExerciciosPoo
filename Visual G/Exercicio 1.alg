@@ -1,7 +1,7 @@
 algoritmo "Exercico 1"
-// Função : Declarar se é gasolina ou alcool
+// FunÃ§Ã£o : Declarar se Ã© gasolina ou alcool
 // Autor :Lucas Noel/Kauan Jesus
-// Data : 08/03/2023
+// Data : 05/04/2023
 
 var
 qlv, vp, vt:Real
@@ -31,6 +31,6 @@ senao
      fimse
 fimse
 
-escreva("O valor a ser pago é:",vp)
+escreva("O valor a ser pago Ã©:",vp)
 
 fimalgoritmo
