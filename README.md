@@ -30,4 +30,6 @@ Para finalizar coloquei um escreva para caso alguem coloque o codigo de looping 
 ### Exercício 1
 ### Exercício 2
 ### Exercício 3
-## Arquivo README
+## Arquivo README <br>
+
+E apos finalizar todos os exercicios. começamos a fazer a descricao de cada um deles nesse arquivo. Enquanto formatava pra ficar tudo bonitinho.
