@@ -27,7 +27,12 @@ E por ultimo o comando Para eu começei deixando um **se** para ler o P logo em 
 Para finalizar coloquei um escreva para caso alguem coloque o codigo de looping que nao ha no algoritmo ai termino com 3 fimse para os SE e com um fimalgoritmo.<br><br>
 ### Exercício 3
 ## Visual Studio
-### Exercício 1
+### Exercício 1<br>
+Aqui eu segui a mesma logica de quando fiz no visualg. Mas dessa vez, so traduzi pra outra linguagem de codigo, e adapatei pra forma que o Visual Studio aceitasse.<br>
+
+Aqui eu criei um label dentro do projeto do ano passado que eu criei pro Visual Studio, e depois conectei com o forms principal. Criei as caixas de textos e as labels. E dei o nome da variavél pra cada uma dessas coisas. Criando junto os button pra calcular, limpar e voltar pra forms principal.<br>
+Primeiramente eu segui a mesma logica de codigos que fiz no visualg, e depois fiz os codigos pra limpar e voltar. Assim finalizando a parte do Visual Studio desse exercício.
+
 ### Exercício 2
 ### Exercício 3
 ## Arquivo README <br>
