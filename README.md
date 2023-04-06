@@ -32,8 +32,14 @@ Eu pedi para o usuario votar(usando o **escreva** e o **leia**), e dependendo do
 
 Aqui eu iniciei outro desvio condicional encadeado para ver qual era o ganhador. E abaixo escrevia com quantos votos o presidente ganhou, e o total de votos que teve (somando os votos de cada candidatos) e a porcentagem em relação ao total (usando a conta em  forma de porcentagem no codigo, usando a variavél vt), e criando o codigo logo em seguida para que o comando apresentasse isso. Porém, existia a possiblidade dos votos empatarem, e após diversas tentativas para tentar resolver isso (tentando utilizar outro looping). Eu resolvi deixar no ultima **senao** desse desvio condicional, um **escreva** para que a pessoa  fizesse a votação denovo, e não apresentaria nada. Ou seja, os votos não podiam empatar. Após isso fechei o desvio condiconal encadeado, e o programa estava feito
 
-## Visual Studio
-### Exercício 1
+## Visual Studio<br>
+Infezlimente tive que fazer essa parte no caderno, mas ainda consegui fazer.
+
+### Exercício 1<br>
+Aqui eu segui a mesma logica de quando fiz no visualg. Mas dessa vez, so traduzi pra outra linguagem de codigo, e adapatei pra forma que o Visual Studio aceitasse.<br>
+
+Aqui eu criei um label dentro do projeto do ano passado que eu criei pro Visual Studio, e depois conectei com o forms principal. Criei as caixas de textos e as labels. E dei o nome da variavél pra cada uma dessas coisas. Criando junto os button pra calcular, limpar e voltar pra forms principal.<br>
+Primeiramente eu segui a mesma logica de codigos que fiz no visualg, e depois fiz os codigos pra limpar e voltar. Assim finalizando a parte do Visual Studio desse exercício.
 ### Exercício 2
 ### Exercício 3
 ## Arquivo README
