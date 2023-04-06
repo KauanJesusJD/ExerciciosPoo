@@ -25,7 +25,21 @@ No outro comando do Enquanto eu coloquei pra ele ler o eloop para que e do tipo 
 E por ultimo o comando Para eu começei deixando um **se** para ler o P logo em seguida ja deixo sua condição que e para i de 1 ate 10 logo embaixo ja o escreva e o comando vai ficar passando e chegando no escreva 10 vezes e logo depois coloco um fimpara para parar o looping.<p>
 
 Para finalizar coloquei um escreva para caso alguem coloque o codigo de looping que nao ha no algoritmo ai termino com 3 fimse para os SE e com um fimalgoritmo.<br><br>
-### Exercício 3
+### Exercício 3<br>
+O exercicio:Faça um programa para uma instituição que fára uma votação eletronica. Essa eleição tera três candidatos:
+1. Jose da Silva
+2. Maria Joruma 
+3. João da tapioca<br>
+O programa devera calcular a quantidade de votos de cada candidato e apresentar o ganhador mostrando o total de votos geral, o total de votos do ganhador e a porcentagem em relação ao total.
+
+Comecei denovo pelas variáveis (vot-votos, cand1-votos do Jose da Silva, cand2-votos da Maria Joruma, cand3-votos do João da tapioca e fim-para determinar o fim do looping). Todas essas variáveis do tipo **inteira** e uma variável do tipo **Real** (pv-porcentagem dos votos em relação ao total).<br>
+
+Agora comecei mostrando pro usuario todos os candidatos e seus respectivos numeros para votar (com o comando escreva) e iniciei logo em seguida com o repita.<br>
+
+Eu ja sabia que utilizaria um looping, e usei o **repita** porque achei que se encaixaria mais no que eu tava querendo fazer. E o que eu fiz foi o seguinte:<br>
+Eu pedi para o usuario votar(usando o **escreva** e o **leia**), e dependendo do seu voto (utlizando os comandos **se** e **senao**) ele votaria na pessoa que ele queria (E fiz um **escreva** escrito "voto aprovado" para garantir que o voto foi feito. Em cada voto diferente que ele fizesse). E a cada voto naquela pessoa, ela ganharia +1 voto (Utilizando o sistema de looping para que os votos fossem aumentando). E eu fiz isso com uma conta no codigo para que ela fosse ganhando os votos caso ela fosse votada.  E no final de cada voto apareceria  se a pessoa quer encerrar a votaçãoã(usando o **escreva** e o **leia**) . E se nao encerrasse, a pessoa teria que votar denovo e o looping continuava. Ate, ela querer que acabasse e passa-se para a segunda parte do codígo. E depois dessa parte do codigo eu fechei o looping e  o desvio condicional encadeado
+
+Aqui eu iniciei outro desvio condicional encadeado para ver qual era o ganhador. E abaixo escrevia com quantos votos o presidente ganhou, e o total de votos que teve (somando os votos de cada candidatos) e a porcentagem em relação ao total (usando a conta em  forma de porcentagem no codigo, usando a variavél vt), e criando o codigo logo em seguida para que o comando apresentasse isso. Porém, existia a possiblidade dos votos empatarem, e após diversas tentativas para tentar resolver isso (tentando utilizar outro looping). Eu resolvi deixar no ultima **senao** desse desvio condicional, um **escreva** para que a pessoa  fizesse a votação denovo, e não apresentaria nada. Ou seja, os votos não podiam empatar. Após isso fechei o desvio condiconal encadeado, e o programa estava feito<br>
 ## Visual Studio
 ### Exercício 1<br>
 Aqui eu segui a mesma logica de quando fiz no visualg. Mas dessa vez, so traduzi pra outra linguagem de codigo, e adapatei pra forma que o Visual Studio aceitasse.<br>
